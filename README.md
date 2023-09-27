@@ -1,2 +1,2 @@
-# hanneandzack.github.io
+# hanneandzack
 Our (Static) Wedding Website

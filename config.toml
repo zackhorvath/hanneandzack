@@ -1,0 +1,13 @@
+baseURL = 'https://hanneandzack.com/'
+languageCode = 'en-us'
+title = "Hanne and Zack"
+enableEmoji = true
+disableKinds = ["taxonomy","term"]
+
+[author]
+    name = "Hanne & Zack"
+    headline = "It's actually official!"
+    image = "hanneandzack.jpg"
+    links = [
+        { link = { href = "https://meghanklein.pic-time.com/ZlQgrkEMlPYQ4", text = "Official Photo Album" }},
+    ]
